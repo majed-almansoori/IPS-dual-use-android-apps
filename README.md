@@ -12,4 +12,5 @@ Our paper appears in PoPETS/PETS 2022; you may find the paper here (will be adde
 4. `chinese_stores.csv`: Contains all downloaded apps from the four Chinese app stores *Xiaomi*, *Baidu*, *Tencent*, and *Huawei*. The file includes `appId`, `title`, `manual_label`, and `capabilities` (capabilities of flagged dual-use apps).
 5. `script.ipynb`: A script that compiles important results from the main analysis of 2020's crawl.
 6. `play_store.db`: Contains `play_store.csv` as a table; used by `script.ipynb` (The file will get removed after updating script.ipynb to use pandas instead of SQLite).
+7. `terms.csv`: Contains results from query snowballing and apps collected for each term. You may find the [file here]([https://link-url-here.org](https://drive.google.com/file/d/1VYj54HwIHPqvPjkVIpv7wF6jDyRVWiZO/view?usp=sharing)) _(File size: 1.22 GB)_.
 
