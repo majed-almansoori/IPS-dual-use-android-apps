@@ -7,5 +7,5 @@
 4. `flagged_apps_2022.csv`: All apps manually flagged in 2022
 5. `chinese_stores.csv`: 
 6. `script.ipynb`: .
-7. `data.db`: Contains `play_store.csv` as a table (The file will get removed after updating script.ipynb to use pandas instead of SQLite).
+7. `play_store.db`: Contains `play_store.csv` as a table (The file will get removed after updating script.ipynb to use pandas instead of SQLite).
 
