@@ -21,6 +21,17 @@ The script needs
 * `pandas` (pandas 1.4+ is recommonded)
 * [`jupyter notebook`](https://jupyter.org/install)
 
+## How to run
+To use the script, run the following line
+```bash
+$ jupyter notebook script.ipynb 
+```
+
+If you are unfamiliar with jupyter notebook, you may use the following line to output results as an HTML file:
+```bash
+$ jupyter nbconvert --execute --to html script.ipynb
+```
+
 ## License
 
 MIT License
