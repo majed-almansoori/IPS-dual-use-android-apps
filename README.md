@@ -5,6 +5,9 @@ Intimate partner violence (IPV) is a pervasive societal problem that affects mil
 ## Paper
 Our paper appears in PoPETS/PETS 2022; you may find the paper here (will be added soon). 
 
+## Crawling script
+You may find the crawling script [here](https://github.com/rchatterjee/appscrapers)
+
 ## Files
 1. `play_apps.csv`: Contains all downloaded apps in 2020 and 2020. The file includes `appId`, `title`, `detected_language` (language of metadeta), `crawl_language` (qurey language used to obtain app), `crawl_year`, `ml_score`(classification score), `manual_label`, and `capabilities` (capabilities of flagged dual-use apps).
 2. `flagged_apps_2020.csv`: All apps manually flagged in 2020
