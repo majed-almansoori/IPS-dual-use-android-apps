@@ -14,6 +14,12 @@ Our paper appears in PoPETS/PETS 2022; you may find the paper here (will be adde
 6. `play_apps.db`: Contains `play_apps.csv` as a table; used by `script.ipynb` (The file will get removed after updating script.ipynb to use pandas instead of SQLite).
 7. `terms.csv`: Contains results from query snowballing and apps collected for each term. You may find the [file here](https://drive.google.com/file/d/1VYj54HwIHPqvPjkVIpv7wF6jDyRVWiZO/view?usp=sharing) _(File size: 1.22 GB)_.
 
+## Dependencies
+The script needs
+* `Python3.5+`
+* `sqlite3`
+* `pandas` (pandas 1.4+ is recommonded)
+* [`jupyter notebook`](https://jupyter.org/install)
 
 ## License
 
